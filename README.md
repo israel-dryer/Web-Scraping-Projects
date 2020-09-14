@@ -3,6 +3,7 @@ A collection of web scraping projects to practice your skills or build a portfol
 
 | Project | Description |
 |---|---|
+| [Amazon](https://github.com/israel-dryer/Amazon-Scraper) | product and price data |
 | [Zillow](https://github.com/israel-dryer/Zillow-Scraper) | property data based on specific search criteria | 
 | [Walmart](https://github.com/israel-dryer/Walmart-Scraper) | product data based on search criteria | 
 | [Yahoo! News](https://github.com/israel-dryer/Yahoo-News-Scraper) | news article data including summmary based on search criteria |
