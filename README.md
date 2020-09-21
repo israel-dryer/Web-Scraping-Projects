@@ -6,10 +6,10 @@ A collection of web scraping projects to practice your skills or build a portfol
 | [Amazon](https://github.com/israel-dryer/Amazon-Scraper) | product and price data |
 | [Indeed.com](https://github.com/israel-dryer/Indeed-Job-Scraper) | job postings based on search criteria | 
 | [Yahoo! Finance](https://github.com/israel-dryer/Yahoo-Finance-Scraper) | financial, company and historical stock data |
-| [Salary.com](https://github.com/israel-dryer/Salary-Dot-Com-Scraper) | salary statistics based on specific search criteria |
-| [Zillow]() | property data based on specific search criteria | COMING SOON
-| [Walmart]() | product data based on search criteria | COMING SOON
-| [Yahoo! News]() | news article data including summmary based on search criteria | COMING SOON
+| [Salary.com]() | salary statistics based on specific search criteria -- COMING SOON |
+| [Zillow]() | property data based on specific search criteria -- COMING SOON |
+| [Walmart]() | product data based on search criteria -- COMING SOON |
+| [Yahoo! News]() | news article data including summmary based on search criteria -- COMING SOON |
 
 
 ## Requirements
