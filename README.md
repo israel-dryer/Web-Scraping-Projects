@@ -8,9 +8,7 @@ A collection of web scraping projects to practice your skills or build a portfol
 | [Yahoo! Finance](https://github.com/israel-dryer/Yahoo-Finance-Scraper) | financial, company and historical stock data |
 | [Salary.com](https://github.com/israel-dryer/Salary-Dot-Com-Scraper) | salary statistics based on specific search criteria |
 | [Yahoo! News](https://github.com/israel-dryer/Yahoo-News-Scraper) | news article data including summmary based on search criteria |
-| [Zillow]() | property data based on specific search criteria -- COMING SOON |
-| [Walmart]() | product data based on search criteria -- COMING SOON |
-
+| [Twitter](https://github.com/israel-dryer/Twitter-Scraper) | scrape twitter data |
 
 
 ## Requirements
